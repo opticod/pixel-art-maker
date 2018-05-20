@@ -6,6 +6,7 @@ This is simple, light-weight art maker web project as a part of [Udacity](https:
 
 ## Steps
 
+* Go to https://opticod.github.io/project-pixel-art-maker
 * Enter your grid height.
 * Enter your grid width.
 * Create your grid by submitting the configuration.
